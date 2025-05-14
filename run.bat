@@ -1,0 +1,1 @@
+python main.py speech.txt --model adam --accent uk
